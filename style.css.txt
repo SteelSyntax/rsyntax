@@ -1,0 +1,35 @@
+/* RSyntax */
+
+body {
+	background-color: #454545; 
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+        		'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color:#d0bdf4;
+}
+
+#discord a {
+	font-size: 10px;
+}
+
+#small {
+	font-size: 10px;
+}
+
+a:visited {
+color: #a270ff;
+}
+
+a:link {
+color: #7077ff;
+}
+
+#rsyntax {
+	width:30%;
+	height:50%;
+}
+
+.img {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image:url('https://rmunifylive01asset.blob.core.windows.net/app-images/2c186af6-a1ed-46d2-aa60-ffa045919e86/icon_202x153.jpg');
+}
